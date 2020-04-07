@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACI,kBACJ,CACA,SACI,cACJ","file":"main.312d4857.chunk.css","sourcesContent":["body {\r\n    background: aliceblue;\r\n}\r\n.pointer {\r\n    cursor: pointer;\r\n}"]}
